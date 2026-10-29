@@ -189,7 +189,7 @@ int main() {
     do {
         bersihkanLayar();
         cout << "======================================================================\n";
-        cout << "         DATA MAHASISWA             \n";
+        cout << "         DATA MAHASISWA                                               \n";
         cout << "======================================================================\n";
         cout << " 1. INSERT DATA\n";
         cout << " 2. HAPUS DATA\n";
